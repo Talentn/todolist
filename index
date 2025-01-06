@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>365-Day To-Do List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #444;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #555;
+        }
+
+        .activity {
+            color: #ff69b4;
+        }
+
+        .other {
+            color: #ffa500;
+        }
+
+        .together {
+            color: #1e90ff;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>365-Day To-Do List</h1>
+
+        <h2>January 2025</h2>
+        <ul>
+            <li><span class="together">6 January:</span> Movie night – watch a movie together.</li>
+            <li><span class="together">7 January:</span> DIY craft project – make something meaningful for each other.</li>
+            <li><span class="other">8 January:</span> Exchange "5 things I love about you" texts.</li>
+            <li><span class="together">9 January:</span> Watch a comedy movie or stand-up special.</li>
+            <li><span class="other">10 January:</span> Play an online word or trivia game together.</li>
+            <li><span class="together">11 January:</span> Have a themed dinner night (e.g., Italian or Mexican).</li>
+            <li><span class="activity">12 January:</span> Visit a museum, art gallery, or local park.</li>
+            <li><span class="together">13 January:</span> Have a cozy breakfast date at home.</li>
+            <li><span class="together">14 January:</span> Try a new baking recipe together.</li>
+            <li><span class="activity">15 January:</span> Go for an evening walk in a scenic area.</li>
+            <li><span class="other">16 January:</span> Share a motivational podcast or article.</li>
+            <li><span class="together">17 January:</span> Play a cooperative board game.</li>
+            <li><span class="together">18 January:</span> Create a shared vision board for the year.</li>
+            <li><span class="activity">19 January:</span> Explore a new café or restaurant in your city.</li>
+            <li><span class="other">20 January:</span> Plan a surprise activity for each other.</li>
+            <li><span class="together">21 January:</span> Watch a documentary on a topic of shared interest.</li>
+            <li><span class="together">22 January:</span> Dance to your favorite playlist at home.</li>
+            <li><span class="activity">23 January:</span> Visit a local cultural event or exhibit.</li>
+            <li><span class="other">24 January:</span> Send each other a funny meme or video.</li>
+            <li><span class="together">25 January:</span> Try a themed movie night (e.g., 80s films).</li>
+            <li><span class="activity">26 January:</span> Go for a hike or nature walk.</li>
+            <li><span class="together">27 January:</span> Host a mini trivia night at home.</li>
+            <li><span class="other">28 January:</span> Write a short letter to each other to read later.</li>
+            <li><span class="activity">29 January:</span> Visit a nearby historical site or landmark.</li>
+            <li><span class="together">30 January:</span> Watch a foreign film with subtitles.</li>
+            <li><span class="other">31 January:</span> Share your favorite childhood photos.
+            </li>
+        </ul>
+
+        <h2>February 2025</h2>
+<ul>
+    <li><span class="together">1 February:</span> Try a new board game together.</li>
+    <li><span class="activity">2 February:</span> Visit a flea market or local bazaar.</li>
+    <li><span class="other">3 February:</span> Plan your dream travel itinerary together.</li>
+    <li><span class="together">4 February:</span> Make homemade pizza night.</li>
+    <li><span class="activity">5 February:</span> Explore a new neighborhood or park.</li>
+    <li><span class="other">6 February:</span> Exchange your top 3 favorite books and why.</li>
+    <li><span class="together">7 February:</span> Watch a romantic comedy movie.</li>
+    <li><span class="together">8 February:</span> Have a virtual trivia night with friends.</li>
+    <li><span class="activity">9 February:</span> Attend a local event or community fair.</li>
+    <li><span class="other">10 February:</span> Write down your goals for the next six months and share.</li>
+    <li><span class="together">11 February:</span> Cook a meal together you've never tried before.</li>
+    <li><span class="activity">12 February:</span> Go to a local park for a picnic.</li>
+    <li><span class="together">13 February:</span> Watch a classic movie you've never seen.</li>
+    <li><span class="together">14 February:</span> Celebrate Valentine's Day with a romantic dinner at home.</li>
+    <li><span class="activity">15 February:</span> Take a long walk and explore a new area.</li>
+    <li><span class="other">16 February:</span> Share a playlist of your favorite songs with each other.</li>
+    <li><span class="together">17 February:</span> Build a puzzle or try a DIY project.</li>
+    <li><span class="activity">18 February:</span> Visit a local art gallery or museum.</li>
+    <li><span class="other">19 February:</span> Share your favorite childhood memories.</li>
+    <li><span class="together">20 February:</span> Have a video game night with multiplayer games.</li>
+    <li><span class="together">21 February:</span> Plan a themed dinner (e.g., sushi night).</li>
+    <li><span class="activity">22 February:</span> Go for a bike ride or rent bikes in a park.</li>
+    <li><span class="other">23 February:</span> Exchange favorite recipes and try them later.</li>
+    <li><span class="together">24 February:</span> Watch a series premiere or binge-watch a show together.</li>
+    <li><span class="activity">25 February:</span> Visit a new coffee shop or tea house.</li>
+    <li><span class="together">26 February:</span> Go stargazing (Hlel Romdhan).</li>
+    <li><span class="other">27 February:</span> Create a "bucket list" for the year together.</li>
+    <li><span class="activity">28 February:</span> Free day.
+</ul>
+<h2>March 2025</h2>
+<ul>
+    <li><span class="other">1 March:</span> Write letters to each other to be opened later.</li>
+    <li><span class="activity">2 March:</span> Share your favorite books and why.</li>
+    <li><span class="other">3 March:</span> Watch a movie simultaneously and discuss after.</li>
+    <li><span class="other">4 March:</span> Plan your goals for the next month virtually.</li>
+    <li><span class="activity">5 March:</span> Exchange playlists and listen together.</li>
+    <li><span class="other">6 March:</span> Work on a collaborative online project or hobby.</li>
+    <li><span class="activity">7 March:</span> Share your favorite photos and memories.</li>
+    <li><span class="other">8 March:</span> Watch a documentary online and discuss it.</li>
+    <li><span class="activity">9 March:</span> Learn a new skill through online tutorials.</li>
+    <li><span class="other">10 March:</span> Write poems or stories for each other.</li>
+    <li><span class="activity">11 March:</span> Try a new mobile game together.</li>
+    <li><span class="other">12 March:</span> Share your favorite quotes or passages.</li>
+    <li><span class="activity">13 March:</span> Take a virtual tour of a museum or landmark.</li>
+    <li><span class="other">14 March:</span> Make vision boards online and share them.</li>
+    <li><span class="activity">15 March:</span> Explore a topic of mutual interest and discuss.</li>
+    <li><span class="other">16 March:</span> Exchange recipes to try during the week.</li>
+    <li><span class="activity">17 March:</span> Write a gratitude list and share with each other.</li>
+    <li><span class="other">18 March:</span> Watch a live stream or online event together.</li>
+    <li><span class="activity">19 March:</span> Plan a dream travel itinerary online.</li>
+    <li><span class="other">20 March:</span> Recommend and start reading the same book.</li>
+    <li><span class="activity">21 March:</span> Share and review each other's photos or art.</li>
+    <li><span class="other">22 March:</span> Take an online personality quiz together.</li>
+    <li><span class="activity">23 March:</span> Plan a post-Ramadan celebration virtually.</li>
+    <li><span class="other">24 March:</span> Watch a comedy show or stand-up online.</li>
+    <li><span class="activity">25 March:</span> Discuss a current event or podcast topic.</li>
+    <li><span class="other">26 March:</span> Write letters to your future selves.</li>
+    <li><span class="activity">27 March:</span> Share favorite childhood photos and stories.</li>
+    <li><span class="other">28 March:</span> Watch a series or episode online simultaneously.</li>
+    <li><span class="activity">29 March:</span> Create a shared playlist for the month.</li>
+    <li><span class="other">30 March:</span> Share what you appreciate most about each other.</li>
+    <li><span class="activity">31 March:</span> Plan your next in-person meeting virtually.
+</ul>
+
+<h2>April 2025</h2>
+<ul>
+    <li><span class="together">1 April:</span> Plan a picnic for a sunny weekend.</li>
+    <li><span class="activity">2 April:</span> Visit a local bookstore or library.</li>
+    <li><span class="together">3 April:</span> Have a themed cooking night (e.g., Italian, Asian).</li>
+    <li><span class="special">4 April:</span> Celebrate becoming an official couple with a day of fun: Jumpark adventure, an escape room challenge, and a fancy dinner.</li>
+    <li><span class="activity">5 April:</span> Go for a scenic walk and explore your city.</li>
+    <li><span class="together">6 April:</span> Watch a romantic movie and share your thoughts.</li>
+    <li><span class="activity">7 April:</span> Try a new workout or yoga class together.</li>
+    <li><span class="together">8 April:</span> Host a trivia night at home.</li>
+    <li><span class="activity">9 April:</span> Take a day trip to a nearby town or landmark.</li>
+    <li><span class="together">10 April:</span> Work on a creative DIY project as a couple.</li>
+    <li><span class="activity">11 April:</span> Go stargazing or visit a planetarium.</li>
+    <li><span class="together">12 April:</span> Have a game night with board or card games.</li>
+    <li><span class="activity">13 April:</span> Explore a local café or new restaurant for brunch.</li>
+    <li><span class="together">14 April:</span> Read a book together and discuss your favorite parts.</li>
+    <li><span class="activity">15 April:</span> Visit a local art gallery or museum.</li>
+    <li><span class="together">16 April:</span> Try a new dessert recipe and enjoy it at home.</li>
+    <li><span class="activity">17 April:</span> Attend a local cultural event or festival.</li>
+    <li><span class="together">18 April:</span> Create a shared bucket list for the year.</li>
+    <li><span class="activity">19 April:</span> Go biking in a scenic area.</li>
+    <li><span class="together">20 April:</span> Watch a comedy special and laugh together.</li>
+    <li><span class="activity">21 April:</span> Explore a nearby hiking trail.</li>
+    <li><span class="together">22 April:</span> Plan a gardening project or plant something together.</li>
+    <li><span class="activity">23 April:</span> Visit a zoo or aquarium.</li>
+    <li><span class="together">24 April:</span> Have a karaoke night at home.</li>
+    <li><span class="activity">25 April:</span> Take photos at a picturesque location.</li>
+    <li><span class="together">26 April:</span> Enjoy a relaxing spa day at home with DIY treatments.</li>
+    <li><span class="activity">27 April:</span> Go for a sunset walk by the beach or park.</li>
+    <li><span class="together">28 April:</span> Watch a live-streamed performance or concert.</li>
+    <li><span class="activity">29 April:</span> Try a new sport or activity, like bowling or mini-golf.</li>
+    <li><span class="together">30 April:</span> Reflect on the month and plan for May.
+</ul>
+<h2>May 2025</h2>
+<ul>
+    <li><span class="together">1 May:</span> Relax at home and share your favorite stories.</li>
+    <li><span class="date-night">2 May:</span> Enjoy a cozy movie night together.</li>
+    <li><span class="together">3 May:</span> Explore the Medina </li>
+    <li><span class="together">4 May:</span> picnic</li>
+    <li><span class="date-night">5 May:</span> Have a light dinner and discuss future travel plans.</li>
+    <li><span class="date-night">6 May:</span> Try making a dessert together at home.</li>
+    <li><span class="date-night">7 May:</span> Share your childhood memories over dinner.</li>
+    <li><span class="date-night">8 May:</span> Watch a romantic comedy and laugh together.</li>
+    <li><span class="together">9 May:</span> Visit Sidi Bou Said.</li>
+    <li><span class="together">10 May:</span> </li>
+    <li><span class="date-night">11 May:</span> Ala Cook a Tunisian dish like couscous together.</li>
+    <li><span class="date-night">12 May:</span> Listen to your favorite songs and make a playlist.</li>
+    <li><span class="together">13 May:</span> Visit the Bardo Museum.</li>
+    <li><span class="together">14 May:</span> </li>
+    <li><span class="date-night">15 May:</span> Watch the sunset and reflect on your goals.</li>
+    <li><span class="date-night">16 May:</span> Play a fun trivia game over dinner.</li>
+    <li><span class="together">17 May:</span> </li>
+    <li><span class="together">18 May:</span> </li>
+    <li><span class="date-night">19 May:</span> Write notes of appreciation for each other.</li>
+    <li><span class="date-night">20 May:</span> Plan your next big weekend adventure.</li>
+    <li><span class="together">21 May:</span> Visit the Kerkennah Islands for a day trip.</li>
+    <li><span class="together">22 May:</span> Take photos of the Tozeur Oasis or another desert area.</li>
+    <li><span class="date-night">23 May:</span> Have a cozy board game night at home.</li>
+    <li><span class="date-night">24 May:</span> Read a short story and share your thoughts.</li>
+    <li><span class="together">25 May:</span> Watch a documentary about Tunisia's culture.</li>
+    <li><span class="together">26 May:</span> Visit FRIGUIA.</li>
+    <li><span class="date-night">27 May:</span> Enjoy a light dinner and plan next month’s outings.</li>
+    <li><span class="date-night">28 May:</span> Try learning a few words in a new language together.</li>
+    <li><span class="together">29 May:</span> Spend a relaxing day exploring Dougga’s heritage site.</li>
+    <li><span class="together">30 May:</span> Have a sunset photoshoot at an iconic Tunisian location.</li>
+    <li><span class="date-night">31 May:</span> Reflect on May and set fun goals for June.
+</ul>
+
+    </div>
+</body>
+</html>
